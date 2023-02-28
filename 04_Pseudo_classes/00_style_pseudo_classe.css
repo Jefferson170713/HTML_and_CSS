@@ -1,0 +1,14 @@
+.menu {
+    color: red;
+}
+.corpo {
+    color: blue;
+}
+.rodape {
+    color: yellowgreen;
+}
+.menu:hover{
+    background-color: rgb(238, 81, 81);
+    color: white;
+    transition: 300ms all ease-in-out;
+}
